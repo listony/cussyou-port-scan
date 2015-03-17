@@ -1,0 +1,1 @@
+scan ports open of destination host
